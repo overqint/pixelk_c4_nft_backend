@@ -29,3 +29,7 @@ https://pixelk-connect4.herokuapp.com/
 
 the backend dyno needs to be restarted on heroku
 https://connect4-backend.herokuapp.com/
+
+```
+heroku dyno:restart -a connect4-backend
+```
